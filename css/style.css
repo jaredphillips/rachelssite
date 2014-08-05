@@ -1661,7 +1661,7 @@
 	margin: 2%;
 	border: 15px solid seashell;
 	box-shadow: 5px 20px 56px lightgrey;
-	height: 500px;
+	max-height: 100%;
 	max-width: 100%;
 }
 
