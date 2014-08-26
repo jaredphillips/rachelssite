@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /jaredphillips/
+Disallow: /thejuniordeveloper/
+
+Allow: /
+
+#
+# this technically isn't valid, since for some godforsaken reason 
+# sitemap paths must be ABSOLUTE and not relative, fixed. 
+#
+Sitemap: http://www.itsafieldday.com/sitemap.xml

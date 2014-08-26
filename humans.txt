@@ -1,0 +1,24 @@
+/* TEAM */
+	Terrarium Maker: Rachel Borgh
+	Contact: rachel.fieldday [at] gmail.com
+	Twitter: @fielddaytoronto 
+	From:Toronto, Ontario, Canada
+
+	Design and Theme Creation: HTML5UP
+	Twitter: @n33co
+	URL: http://html5up.net/helios
+
+	Web Developer: Jared Phillips
+	Twitter: @ruby_make_happy
+	URL: http://www.jaredphillips.io
+	From:Toronto, Ontario, Canada
+
+/* THANKS */
+	
+	Stack Overflow community, HackerYou community, Toronto Ruby Community
+		
+
+/* SITE */
+	Last update: 2014/08/26
+	Doctype:HTML5
+	Tech: fancybox for image slider, everything else is from the theme standards.
